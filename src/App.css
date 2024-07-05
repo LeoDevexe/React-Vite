@@ -1,0 +1,9 @@
+.cards{
+    display: grid;
+    grid-template-rows: 5fr;
+}
+
+*{
+    margin:0px;
+    
+}
